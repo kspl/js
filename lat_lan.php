@@ -1,6 +1,6 @@
 <?php   
 
-/* 33
+/* 111111111111111111112222
 $zip = '1323 rg';
 $site = file_get_contents('http://geocoder.ca/?postal='.$zip, false, NULL, 1000, 1000);
 $goods = strstr($site, 'GPoint('); // cut off the first part up until 
